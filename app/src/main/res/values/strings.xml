@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FiberOptic</string>
+    <string name="banner_ad_calFiberOptic">ca-app-pub-5698651679738601/3612336366</string>
+    <string name="banner_ad_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="lblPosicion">POSICION:</string>
+    <string name="lblColor">COLOR:</string>
+    <string name="lblAlimentador">SELECCIONE TIPO DE ALIMENTADOR:</string>
+</resources>

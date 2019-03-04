@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1047296046418",
+    "firebase_url": "https://fiberoptic-d9b6a.firebaseio.com",
+    "project_id": "fiberoptic-d9b6a",
+    "storage_bucket": "fiberoptic-d9b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047296046418:android:82abab73433f2d14",
+        "android_client_info": {
+          "package_name": "com.negociosrdom.fiberoptic.fiberoptic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047296046418-p5lddprhrh7m75g0rbnmogb8mklmko4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.negociosrdom.fiberoptic.fiberoptic",
+            "certificate_hash": "664c0e513f2c8bcf7ebea3884a6350dd7ef79bb8"
+          }
+        },
+        {
+          "client_id": "1047296046418-flv491918mspq1sn56d86mid822p6upf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQpR3NHrSVS4hL6_7xz_JndRsljCy7_20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047296046418-flv491918mspq1sn56d86mid822p6upf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
